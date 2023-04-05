@@ -108,13 +108,25 @@ sns.boxplot(x="SkinThickness",data=df)
 ![image](https://user-images.githubusercontent.com/118708024/230038777-90306705-8f8b-40a9-8e21-1c990ef3e3ff.png)
 #### INFO DATA :
 ![image](https://user-images.githubusercontent.com/118708024/230038592-80dab84f-a210-4d52-bb0b-4dcb2f86f0f5.png)
-### DATA TYPES :
+#### DATA TYPES :
 ![image](https://user-images.githubusercontent.com/118708024/230039171-78bdab37-4de0-4571-9570-47d18b1e0b5f.png)
-### DATA DESCRIBE:
+#### DATA DESCRIBE:
 ![image](https://user-images.githubusercontent.com/118708024/230039375-66e6a650-0ddb-4212-ac59-6d83c84f814e.png)
-### VALUE COUNTS :
+#### VALUE COUNTS :
 ![image](https://user-images.githubusercontent.com/118708024/230039647-d2c48cc9-4e1a-4504-a143-d57a27a5d71c.png)
-### BOX PLOT :
+#### SKEW METHOD:
+![image](https://user-images.githubusercontent.com/118708024/230082688-8447bd55-6ce3-4634-82b4-bfe8c85a0e1d.png)
+#### KURTOSIS METHOD :
+![image](https://user-images.githubusercontent.com/118708024/230083955-f945f4eb-edc1-4a3b-8b68-bc3f3054c673.png)
+#### BOX PLOT :
+![image](https://user-images.githubusercontent.com/118708024/230081480-87d6d485-2335-4d09-ae76-49b8e2444cd3.png)
+#### COUNTPLOT :
+![image](https://user-images.githubusercontent.com/118708024/230081780-64573bd2-103a-4d8e-8fa5-be6515958001.png)
+#### HISTROGRAM PLOT :
+![image](https://user-images.githubusercontent.com/118708024/230081946-44a28419-bfef-4a9b-86c7-289a7d4a3f83.png)
+![image](https://user-images.githubusercontent.com/118708024/230083575-28a241c7-8d77-4289-967e-4a3d85799975.png)
+#### DISTRIBUTION PLOT :
+![image](https://user-images.githubusercontent.com/118708024/230082182-900741fe-1340-4e61-9967-c0c35861781a.png)
 
 ## RESULT
 Therefore we have read the given data and performed the univariate analysis with different types of plots.
